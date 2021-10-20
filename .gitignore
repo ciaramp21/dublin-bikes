@@ -1,0 +1,5 @@
+.idea/
+*.pyc
+config/db_details.py
+venv
+.DS_Store
